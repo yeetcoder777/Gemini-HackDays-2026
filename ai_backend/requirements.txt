@@ -1,0 +1,8 @@
+langchain-community
+langchain-chroma
+fastapi
+sentence-transformers
+groq
+google-genai
+elevenlabs
+langchain-huggingface

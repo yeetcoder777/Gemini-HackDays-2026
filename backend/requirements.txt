@@ -1,0 +1,27 @@
+# Backend Requirements (Python 3.10.x compatible)
+
+# FastAPI and web framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+starlette==0.36.3
+
+# Pydantic for data validation
+pydantic==2.6.1
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Groq API for speech-to-text
+groq==0.4.2
+
+# ElevenLabs API for text-to-speech
+elevenlabs==1.1.2
+
+# File handling
+python-multipart==0.0.9
+
+# Edge TTS (Fallback)
+edge-tts>=6.1.9
+
+# WebSockets
+websockets

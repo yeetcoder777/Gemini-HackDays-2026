@@ -1,0 +1,11 @@
+.venv311
+venv
+.env
+./chroma_memory
+*/chroma_memory
+<<<<<<< HEAD
+node_modules
+=======
+*/node_modules
+./node_modules
+>>>>>>> d7fca30adda121fb07255f815e65e9ede8c5ab4c
